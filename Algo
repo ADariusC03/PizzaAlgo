@@ -1,6 +1,13 @@
 Decide which business to order from
-Decide which type of pizza to order
+            a.Choose Pizza Hut
+            b.Choose Papa Johns
+Decide on Pizza Hut
+Checkout menu
 Choose size
+         a.Small
+         b.Large
+         c.XL
+Choose ingredients and meats
 Type in address and payment
 Wait for delivery
 Set up drinks
